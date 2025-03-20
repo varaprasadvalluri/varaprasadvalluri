@@ -29,6 +29,7 @@ I'm a **Java Full Stack Developer** with **9 years of experience**, specializing
 
 ## 📫 Connect with Me
 - **GitHub:** [VaraPrasad Valluri](https://github.com/varaprasadvalluri)
+- **Linkedin:** [VaraPrasad Valluri](https://www.linkedin.com/in/varaprasad-valluri/)
 
 ---
 💡 *"Passionate about building scalable solutions & solving real-world problems!"*
